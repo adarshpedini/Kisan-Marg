@@ -13,7 +13,7 @@ window.KISAN_MARG_RUNTIME = {
   market: {
     provider: "data.gov.in",
     apiBaseUrl: "https://api.data.gov.in/resource",
-    apiKey: "579b464db66ec23bdd000001e59136ef9bbd4e6559d3e305d2e4e268",
+    apiKey: "Your_API_Key",
     resourceId: "9ef84268-d588-465a-a308-a864a43d0070",
     limit: 12
   }
