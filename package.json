@@ -1,0 +1,15 @@
+{
+  "name": "kisan-marg-chatbot-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Chatbot-only backend for Kisan Marg using OpenAI and local agriculture datasets.",
+  "scripts": {
+    "build:data": "python3 build_chatbot_dataset.py",
+    "start": "node chatbot_server.js",
+    "start:node": "node chatbot_server.js",
+    "start:python": "python3 chatbot_server.py"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

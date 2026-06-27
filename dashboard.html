@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dashboard - Kisan Marg</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="dashboard">
+  <div class="page-shell">
+    <div class="phone-frame">
+      <div class="topbar">
+        <a class="back-btn" href="index.html">←</a>
+        <div style="flex:1;">
+          <h1 data-i18n="dashboardHeader">Dashboard</h1>
+          <div class="topbar-sub"><span data-i18n="dashboardWelcome">Welcome back,</span> <span data-user-name>Farmer</span></div>
+        </div>
+        <div class="lang-switch">
+          <button class="lang-btn" data-lang-btn="en">EN</button>
+          <button class="lang-btn" data-lang-btn="hi">हिं</button>
+          <button class="lang-btn" data-lang-btn="mr">मरा</button>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="section-label" data-i18n="todayFirst">Today First</div>
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-label" data-i18n="statWeather">Weather</div>
+            <div class="stat-value" id="dashboard-weather-temp">--</div>
+            <div class="stat-help" id="dashboard-weather-help" data-i18n="statWeatherHelp">Loading live weather...</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-label" data-i18n="statBestRate">Best Wheat Rate</div>
+            <div class="stat-value">₹32/kg</div>
+            <div class="stat-help" data-i18n="statBestRateHelp">Higher than trader offer</div>
+          </div>
+        </div>
+
+        <div class="section-label" data-i18n="quickAccess">Quick Access</div>
+        <div class="menu-grid">
+          <a class="menu-card" href="market.html">
+            <span class="menu-icon">📈</span>
+            <div class="card-title" data-i18n="dashMarketTitle">Market</div>
+            <div class="card-desc" data-i18n="dashMarketDesc">Check best selling rate today</div>
+          </a>
+          <a class="menu-card" href="crop-care.html">
+            <span class="menu-icon">🍃</span>
+            <div class="card-title" data-i18n="dashCareTitle">Crop Care</div>
+            <div class="card-desc" data-i18n="dashCareDesc">Disease, prevention, cure</div>
+          </a>
+          <a class="menu-card" href="ai-assistant.html">
+            <span class="menu-icon">🤖</span>
+            <div class="card-title" data-i18n="dashAiTitle">AI Bot</div>
+            <div class="card-desc" data-i18n="dashAiDesc">Natural language assistance</div>
+          </a>
+          <a class="menu-card" href="admin.html">
+            <span class="menu-icon">🛠️</span>
+            <div class="card-title" data-i18n="dashAdminTitle">Admin</div>
+            <div class="card-desc" data-i18n="dashAdminDesc">Profiles and storage</div>
+          </a>
+        </div>
+
+        <div class="section-label" data-i18n="support">Support</div>
+        <a class="wide-card list-card" href="weather.html">
+          <span class="menu-icon">🌦️</span>
+          <div>
+            <div class="card-title" data-i18n="dashWeatherTitle">Weather & Climate Suggestions</div>
+            <div class="card-desc" data-i18n="dashWeatherDesc">Get crop suggestions based on changing conditions</div>
+          </div>
+          <span class="arrow">›</span>
+        </a>
+        <a class="wide-card list-card" href="profile.html">
+          <span class="menu-icon">👤</span>
+          <div>
+            <div class="card-title" data-i18n="dashProfileTitle">Profile</div>
+            <div class="card-desc" data-i18n="dashProfileDesc">Farmer identity, crops, and preferences</div>
+          </div>
+          <span class="arrow">›</span>
+        </a>
+      </div>
+
+      <div class="bottom-nav">
+        <a class="nav-item" data-page="home" href="index.html"><span class="nav-icon">🏠</span><span data-i18n="navHome">Home</span></a>
+        <a class="nav-item" data-page="market" href="market.html"><span class="nav-icon">📈</span><span data-i18n="navMarket">Market</span></a>
+        <a class="nav-item" data-page="assistant" href="ai-assistant.html"><span class="nav-icon">🤖</span><span data-i18n="navAi">AI</span></a>
+        <a class="nav-item" data-page="profile" href="profile.html"><span class="nav-icon">👤</span><span data-i18n="navProfile">Profile</span></a>
+      </div>
+    </div>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="config.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

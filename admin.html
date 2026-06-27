@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Admin - Kisan Marg</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="page-shell">
+    <div class="phone-frame">
+      <div class="topbar">
+        <a class="back-btn" href="profile.html">←</a>
+        <h1 data-i18n="adminHeader">Admin Storage</h1>
+        <div class="lang-switch">
+          <button class="lang-btn" data-lang-btn="en">EN</button>
+          <button class="lang-btn" data-lang-btn="hi">हिं</button>
+          <button class="lang-btn" data-lang-btn="mr">मरा</button>
+        </div>
+      </div>
+      <div class="content">
+        <div class="admin-card">
+          <div class="card-title" data-i18n="adminManageTitle">Manage Profiles</div>
+          <div class="card-desc" data-i18n="adminManageDesc">Farmer and admin records stored in local demo storage for the app flow</div>
+          <div class="input-group" style="margin-top:10px;">
+            <label data-i18n="adminSearch">Search Profiles</label>
+            <input class="input" id="adminSearch" type="text" placeholder="Search by name, district, crop..." />
+          </div>
+          <div id="adminList"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

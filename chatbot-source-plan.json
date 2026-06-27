@@ -1,0 +1,42 @@
+{
+  "primary_sources": [
+    {
+      "file": "/Users/Adars_Pedini/Downloads/files/crop_profiles.csv",
+      "type": "crop_profiles",
+      "note": "Cleaned crop metadata file ready for integration."
+    },
+    {
+      "file": "/Users/Adars_Pedini/Downloads/files/intent_examples.csv",
+      "type": "intent_examples",
+      "note": "Cleaned and normalized intent example file ready for integration."
+    },
+    {
+      "file": "/Users/Adars_Pedini/Downloads/files/word_tags.csv",
+      "type": "word_tags",
+      "note": "Support file for NLP tagging and synonym/entity expansion."
+    },
+    {
+      "file": "/Users/Adars_Pedini/Downloads/files-2/agricultural_qna_cleaned.csv",
+      "type": "qa",
+      "note": "Higher-quality Q&A source. Prefer as primary imported answer source."
+    },
+    {
+      "file": "/Users/Adars_Pedini/Downloads/files-2/agroqa_cleaned.csv",
+      "type": "qa",
+      "note": "Large cleaned Q&A source. Good as a primary imported answer source with filtering."
+    }
+  ],
+  "secondary_sources": [
+    {
+      "file": "/Users/Adars_Pedini/Downloads/files-2/chatbot_5000_cleaned.csv",
+      "type": "qa",
+      "note": "Use only as secondary or low-confidence support due to synthetic/generic answers."
+    },
+    {
+      "file": "/Users/Adars_Pedini/Downloads/files-2/chatbot_data_cleaned.csv",
+      "type": "qa",
+      "note": "Use only as secondary or fallback support due to generic answer quality."
+    }
+  ],
+  "hold_sources": []
+}

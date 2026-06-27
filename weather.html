@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Weather - Kisan Marg</title>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Noto+Sans+Devanagari:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="weather">
+  <div class="page-shell">
+    <div class="phone-frame">
+      <div class="topbar">
+        <a class="back-btn" href="dashboard.html">←</a>
+        <h1 data-i18n="weatherHeader">Weather & Climate</h1>
+        <div class="lang-switch">
+          <button class="lang-btn" data-lang-btn="en">EN</button>
+          <button class="lang-btn" data-lang-btn="hi">हिं</button>
+          <button class="lang-btn" data-lang-btn="mr">मरा</button>
+        </div>
+      </div>
+      <div class="content">
+        <section class="weather-page">
+          <div class="weather-search-card">
+            <form id="weather-search-form" class="weather-search-form" autocomplete="off">
+              <div class="weather-input-wrap">
+                <label class="sr-only" for="weather-city-input">City name</label>
+                <input
+                  id="weather-city-input"
+                  type="text"
+                  class="input weather-city-input"
+                  data-i18n="weatherSearchPlaceholder"
+                  placeholder="Search city (e.g., Amravati, Pune, Nashik)"
+                />
+                <div id="weather-suggestions" class="weather-suggestions hidden"></div>
+              </div>
+              <button type="submit" class="btn" data-i18n="weatherSearchBtn">Search</button>
+              <button id="weather-clear-btn" type="button" class="btn-secondary" data-i18n="weatherClearBtn">Clear</button>
+            </form>
+
+            <div class="weather-chip-row">
+              <span class="weather-chip-label" data-i18n="weatherQuickLabel">Quick Picks</span>
+              <button class="weather-chip" data-weather-city="Amravati">Amravati</button>
+              <button class="weather-chip" data-weather-city="Pune">Pune</button>
+              <button class="weather-chip" data-weather-city="Nagpur">Nagpur</button>
+              <button class="weather-chip" data-weather-city="Nashik">Nashik</button>
+            </div>
+
+            <div id="weather-recents-row" class="weather-chip-row hidden">
+              <span class="weather-chip-label" data-i18n="weatherRecentsLabel">Recent</span>
+              <div id="weather-recents" class="weather-recents"></div>
+            </div>
+          </div>
+
+          <div id="weather-status" class="list-card hidden"></div>
+          <div id="weather-error" class="list-card weather-error hidden"></div>
+
+          <div id="weather-result" class="hidden">
+            <section class="weather-hero-card">
+              <div>
+                <div class="weather-place" id="weather-place-title">Amravati, Maharashtra</div>
+                <div class="weather-place-sub" id="weather-place-sub">Live forecast and current conditions</div>
+              </div>
+              <div class="weather-time-box">
+                <span data-i18n="weatherLocalTime">Local time</span>
+                <strong id="weather-local-time">--</strong>
+              </div>
+            </section>
+
+            <section class="weather-now-grid">
+              <div class="weather-now-card">
+                <div class="weather-now-head">
+                  <div>
+                    <div class="weather-section-kicker" data-i18n="weatherCurrentTitle">Now</div>
+                    <div class="weather-temp-row">
+                      <div class="weather-main-temp" id="weather-current-temp">--</div>
+                      <div>
+                        <div class="weather-main-desc" id="weather-current-desc">--</div>
+                        <div class="weather-main-feels" id="weather-current-feels">Feels like --</div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="weather-main-icon" id="weather-current-icon"></div>
+                </div>
+
+                <div class="weather-stat-grid">
+                  <div class="weather-mini-stat">
+                    <span data-i18n="weatherWind">Wind</span>
+                    <strong id="weather-current-wind">--</strong>
+                  </div>
+                  <div class="weather-mini-stat">
+                    <span data-i18n="weatherPrecip">Precip</span>
+                    <strong id="weather-current-precip">--</strong>
+                  </div>
+                  <div class="weather-mini-stat">
+                    <span data-i18n="weatherClouds">Clouds</span>
+                    <strong id="weather-current-clouds">--</strong>
+                  </div>
+                  <div class="weather-mini-stat">
+                    <span data-i18n="weatherDayNight">Day/Night</span>
+                    <strong id="weather-current-isday">--</strong>
+                  </div>
+                </div>
+              </div>
+
+              <div class="weather-meta-card">
+                <div class="weather-section-kicker" data-i18n="weatherMetaTitle">At a glance</div>
+                <div class="weather-meta-list">
+                  <div class="weather-meta-row"><span data-i18n="weatherTimezone">Timezone</span><strong id="weather-tz">--</strong></div>
+                  <div class="weather-meta-row"><span data-i18n="weatherLatitude">Latitude</span><strong id="weather-lat">--</strong></div>
+                  <div class="weather-meta-row"><span data-i18n="weatherLongitude">Longitude</span><strong id="weather-lon">--</strong></div>
+                  <div class="weather-meta-row"><span data-i18n="weatherElevation">Elevation</span><strong id="weather-elev">--</strong></div>
+                </div>
+              </div>
+            </section>
+
+            <section class="list-card weather-forecast-card">
+              <div class="weather-section-kicker" data-i18n="weatherForecastTitle">7-Day Forecast</div>
+              <div id="weather-daily-grid" class="weather-daily-grid"></div>
+            </section>
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
+  <script src="data.js"></script>
+  <script src="config.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

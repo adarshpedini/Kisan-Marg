@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Meta tags for character encoding and responsive viewport -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kisan Marg</title>
+  
+  <!-- Google Fonts import for reference-inspired typography -->
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Noto+Sans+Devanagari:wght@400;600;700&display=swap" rel="stylesheet" />
+  
+  <!-- Custom stylesheet link -->
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body data-page="home">
+  <!-- Main container wrapper for the entire page -->
+  <div class="page-shell">
+    <!-- Phone frame container simulating mobile device appearance -->
+    <div class="phone-frame">
+      
+      <!-- Top navigation bar with app branding and language switcher -->
+      <div class="topbar">
+        <!-- App icon emoji -->
+        <span style="font-size:22px;">🌾</span>
+        <!-- App title and subtitle container -->
+        <div style="flex:1;">
+          <h1>Kisan Marg</h1>
+          <!-- Subtitle with internationalization attribute -->
+          <div class="topbar-sub" data-i18n="brandSub">Smart Farming Companion</div>
+        </div>
+        <!-- Language switcher buttons for English, Hindi, and Marathi -->
+        <div class="lang-switch">
+          <button class="lang-btn" data-lang-btn="en">EN</button>
+          <button class="lang-btn" data-lang-btn="hi">हिं</button>
+          <button class="lang-btn" data-lang-btn="mr">मरा</button>
+        </div>
+      </div>
+
+      <!-- Main content area containing all app sections -->
+      <div class="content home-content">
+        <!-- Hero section with personalized greeting and app tagline -->
+        <div class="home-hero">
+          <div class="hero-orb"></div>
+          <div class="greeting" data-i18n="homeGreeting">Namaste, Kisan Ji</div>
+          <div class="tagline" data-i18n="homeTagline">Your Smart
+Farming Companion</div>
+          <div class="subline" data-i18n="homeSub">Real-time market prices · Weather guidance · Crop care · AI help</div>
+          <div class="weather-pill">
+            <span class="weather-pill-dot"></span>
+            <span data-i18n="weatherStrip">Amravati · 28°C · Live farming updates available</span>
+          </div>
+        </div>
+
+        <!-- Section label for quick access menu cards -->
+        <div class="section-label" data-i18n="quickAccess">Quick Access</div>
+        
+        <!-- Grid layout for primary navigation menu cards (2x2 grid) -->
+        <div class="menu-grid">
+          <a class="menu-card" href="ai-assistant.html">
+            <span class="menu-icon">🤖</span>
+            <div class="card-title" data-i18n="homeAiTitle">AI Assistant</div>
+            <div class="card-desc" data-i18n="homeAiDesc">Chat in Hindi, Marathi, or English for instant farming help</div>
+          </a>
+
+          <a class="menu-card" href="market.html">
+            <span class="menu-icon">📊</span>
+            <div class="card-title" data-i18n="homeMarketTitle">Market Prices</div>
+            <div class="card-desc" data-i18n="homeMarketDesc">Live mandi and direct buyer rates in one place</div>
+          </a>
+
+          <a class="menu-card" href="weather.html">
+            <span class="menu-icon">🌦️</span>
+            <div class="card-title" data-i18n="homeWeatherTitle">Weather Forecast</div>
+            <div class="card-desc" data-i18n="homeWeatherDesc">Forecasts and crop suggestions for changing conditions</div>
+          </a>
+
+          <a class="menu-card" href="crop-care.html">
+            <span class="menu-icon">🌱</span>
+            <div class="card-title" data-i18n="homeCareTitle">Crop Care</div>
+            <div class="card-desc" data-i18n="homeCareDesc">Disease guidance, prevention, treatment, and image support</div>
+          </a>
+        </div>
+
+        <div class="section-label" data-i18n="moreFeatures">Features</div>
+
+
+
+        <a class="wide-card list-card feature-card" href="login.html">
+          <span class="menu-icon">🔐</span>
+          <div>
+            <div class="card-title" data-i18n="homeAuthTitle">Login / Signup</div>
+            <div class="card-desc" data-i18n="homeAuthDesc">Farmer and admin access with mobile-friendly forms</div>
+          </div>
+          <span class="arrow">›</span>
+        </a>
+      </div>
+
+      <!-- Fixed bottom navigation bar with 4 main tabs -->
+      <div class="bottom-nav">
+        <!-- Home navigation item (active by default) -->
+        <a class="nav-item" data-page="home" href="index.html"><span class="nav-icon">🏠</span><span data-i18n="navHome">Home</span></a>
+        <!-- Market navigation item -->
+        <a class="nav-item" data-page="market" href="market.html"><span class="nav-icon">📈</span><span data-i18n="navMarket">Market</span></a>
+        <!-- AI Assistant navigation item -->
+        <a class="nav-item" data-page="assistant" href="ai-assistant.html"><span class="nav-icon">🤖</span><span data-i18n="navAi">AI</span></a>
+        <!-- Profile navigation item -->
+        <a class="nav-item" data-page="profile" href="profile.html"><span class="nav-icon">👤</span><span data-i18n="navProfile">Profile</span></a>
+      </div>
+    </div>
+  </div>
+  
+  <!-- External JavaScript files for data and main functionality -->
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

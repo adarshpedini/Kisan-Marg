@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Profile - Kisan Marg</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="profile">
+  <div class="page-shell">
+    <div class="phone-frame">
+      <div class="topbar">
+        <a class="back-btn" href="dashboard.html">←</a>
+        <h1 data-i18n="profileHeader">Profile</h1>
+        <div class="lang-switch">
+          <button class="lang-btn" data-lang-btn="en">EN</button>
+          <button class="lang-btn" data-lang-btn="hi">हिं</button>
+          <button class="lang-btn" data-lang-btn="mr">मरा</button>
+        </div>
+      </div>
+      <div class="content">
+        <div class="profile-card">
+          <div class="card-title"><span data-user-name>Farmer</span></div>
+          <div class="card-desc" data-i18n="profileDesc">Farmer account, crops, and mobile app preferences</div>
+          <div id="profileList"></div>
+        </div>
+        <a class="wide-card list-card" href="admin.html">
+          <span class="menu-icon">🛠️</span>
+          <div>
+            <div class="card-title" data-i18n="adminTitle">Admin Storage</div>
+            <div class="card-desc" data-i18n="adminDesc">Open profile management records</div>
+          </div>
+          <span class="arrow">›</span>
+        </a>
+      </div>
+      <div class="bottom-nav">
+        <a class="nav-item" data-page="home" href="index.html"><span class="nav-icon">🏠</span><span data-i18n="navHome">Home</span></a>
+        <a class="nav-item" data-page="market" href="market.html"><span class="nav-icon">📈</span><span data-i18n="navMarket">Market</span></a>
+        <a class="nav-item" data-page="assistant" href="ai-assistant.html"><span class="nav-icon">🤖</span><span data-i18n="navAi">AI</span></a>
+        <a class="nav-item" data-page="profile" href="profile.html"><span class="nav-icon">👤</span><span data-i18n="navProfile">Profile</span></a>
+      </div>
+    </div>
+  </div>
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

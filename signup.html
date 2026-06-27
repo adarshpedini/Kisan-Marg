@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Signup - Kisan Marg</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="page-shell">
+    <div class="phone-frame">
+      <div class="topbar">
+        <a class="back-btn" href="login.html">←</a>
+        <h1 data-i18n="signupHeader">Signup</h1>
+        <div class="lang-switch">
+          <button class="lang-btn" data-lang-btn="en">EN</button>
+          <button class="lang-btn" data-lang-btn="hi">हिं</button>
+          <button class="lang-btn" data-lang-btn="mr">मरा</button>
+        </div>
+      </div>
+      <div class="auth-hero">
+        <div class="auth-title" data-i18n="signupTitle">Create Farmer Profile</div>
+        <div class="auth-sub">Register once and start using the dashboard, AI support, market updates, and crop care in a mobile-first flow.</div>
+      </div>
+      <div class="content auth-body">
+        <form class="form-card" id="signupForm">
+          <div class="input-group">
+            <label data-i18n="signupName">Full Name</label>
+            <input class="input" name="name" type="text" required />
+          </div>
+          <div class="input-group">
+            <label data-i18n="signupPhone">Phone</label>
+            <input class="input" name="phone" type="text" required />
+          </div>
+          <div class="input-group">
+            <label data-i18n="signupVillage">Village</label>
+            <input class="input" name="village" type="text" required />
+          </div>
+          <div class="input-group">
+            <label data-i18n="signupDistrict">District</label>
+            <input class="input" name="district" type="text" required />
+          </div>
+          <div class="input-group">
+            <label data-i18n="signupLanguage">Preferred Language</label>
+            <select class="select" name="language">
+              <option>English</option>
+              <option>Hindi</option>
+              <option>Marathi</option>
+            </select>
+          </div>
+          <div class="input-group">
+            <label data-i18n="signupLand">Land Holding</label>
+            <input class="input" name="land" type="text" placeholder="5 Acres" required />
+          </div>
+          <div class="input-group">
+            <label data-i18n="signupCrops">Main Crops</label>
+            <input class="input" name="crops" type="text" placeholder="Wheat, Cotton" required />
+          </div>
+          <div class="btn-row">
+            <button class="btn" type="submit" data-i18n="createAccount">Create Account</button>
+            <a class="btn-secondary" href="login.html" data-i18n="back">Back</a>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

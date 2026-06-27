@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Assistant - Kisan Marg</title>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Noto+Sans+Devanagari:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="assistant">
+  <div class="page-shell">
+    <div class="phone-frame">
+      <div class="topbar">
+        <a class="back-btn" href="dashboard.html">←</a>
+        <h1 data-i18n="aiHeader">AI Assistant</h1>
+        <div class="lang-switch">
+          <button class="lang-btn" data-lang-btn="en">EN</button>
+          <button class="lang-btn" data-lang-btn="hi">हिं</button>
+          <button class="lang-btn" data-lang-btn="mr">मरा</button>
+        </div>
+      </div>
+      <div class="content">
+        <div class="chat-card">
+          <div class="card-title" data-i18n="aiTitle">KisanBot</div>
+          <div class="card-desc" data-i18n="aiDesc">App surfing help, crop health tips, crop diseases, prevention, cure, climate updates, and crop suggestions.</div>
+          <div class="quick-prompts">
+            <button data-ai-prompt="hi" data-i18n="aiPromptGreeting">Hi</button>
+            <button data-ai-prompt="which crop should I grow" data-i18n="aiPromptCrop">Crop advice</button>
+            <button data-ai-prompt="how to control pests" data-i18n="aiPromptPest">Pest control</button>
+            <button data-ai-prompt="crop price today" data-i18n="aiPromptMarket">Market rates</button>
+          </div>
+          <div class="chat-messages" id="aiMessages">
+            <div class="message bot"><div class="bubble" data-i18n="aiWelcome">Namaste! Ask me anything about crops, weather, diseases, market prices, or how to use the app.</div></div>
+          </div>
+         
+          <div class="voice-action-row">
+            <button class="btn-secondary mic-btn" id="aiMic" type="button" data-i18n="voiceInput">Voice Input</button>
+            <div class="voice-status" id="aiVoiceStatus"></div>
+          </div>
+          <div class="chat-input-row">
+            <input class="input" id="aiInput" type="text" data-i18n="aiPlaceholder" placeholder="Type your message here..." />
+            <button class="btn-secondary mic-btn icon-only" id="aiMicMini" type="button" aria-label="Voice Input">Mic</button>
+            <button class="btn" id="aiSend" type="button" data-i18n="send">Send</button>
+          </div>
+        </div>
+      </div>
+      <div class="bottom-nav">
+        <a class="nav-item" data-page="home" href="index.html"><span class="nav-icon">🏠</span><span data-i18n="navHome">Home</span></a>
+        <a class="nav-item" data-page="market" href="market.html"><span class="nav-icon">📈</span><span data-i18n="navMarket">Market</span></a>
+        <a class="nav-item" data-page="assistant" href="ai-assistant.html"><span class="nav-icon">🤖</span><span data-i18n="navAi">AI</span></a>
+        <a class="nav-item" data-page="profile" href="profile.html"><span class="nav-icon">👤</span><span data-i18n="navProfile">Profile</span></a>
+      </div>
+    </div>
+  </div>
+  <script src="data.js"></script>
+  <script src="config.js"></script>
+  <script src="chatbot-data.js"></script>
+  <script src="chatbot-nlp.js"></script>
+  <script src="chatbot-engine.js"></script>
+  <script src="script.js"></script>
+  <script src="intents.js"></script>
+  <script src="chatbot_server.js"></script>
+  <script src="chatbot-imported-data.js"></script>
+  <script src="chatbot-source-plan.json"></script>
+  <script src="package.json"></script>
+  <script src="chatbot.env"></script>
+  <script src="DATASET_WORKFLOW.md"></script>
+</body>
+</html>

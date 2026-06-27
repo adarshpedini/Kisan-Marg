@@ -1,0 +1,832 @@
+[
+  {
+    "word": "10",
+    "label": "QTY",
+    "label_full": "quantity"
+  },
+  {
+    "word": "acre",
+    "label": "MSR",
+    "label_full": "measurement"
+  },
+  {
+    "word": "add",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "against",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "all",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "along",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "am",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "amount",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "and",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "are",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "arecanuts",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "attack",
+    "label": "PEST",
+    "label_full": "pest_control"
+  },
+  {
+    "word": "available",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "barish",
+    "label": "WEA",
+    "label_full": "weather"
+  },
+  {
+    "word": "be",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "belgaum",
+    "label": "LOC",
+    "label_full": "location"
+  },
+  {
+    "word": "best",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "black",
+    "label": "ADJ",
+    "label_full": "adjective"
+  },
+  {
+    "word": "can",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "cardamom",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "cashew",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "caterpillars",
+    "label": "PEST",
+    "label_full": "pest_control"
+  },
+  {
+    "word": "chick",
+    "label": "ADJ",
+    "label_full": "adjective"
+  },
+  {
+    "word": "chilly",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "climate",
+    "label": "WEA",
+    "label_full": "weather"
+  },
+  {
+    "word": "coconut",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "conditions",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "control",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "cost",
+    "label": "MKT",
+    "label_full": "market_price"
+  },
+  {
+    "word": "cotton",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "crop",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "crops",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "cultivate",
+    "label": "CUL",
+    "label_full": "cultivation"
+  },
+  {
+    "word": "day",
+    "label": "TIME",
+    "label_full": "time_reference"
+  },
+  {
+    "word": "days",
+    "label": "TIME",
+    "label_full": "time_reference"
+  },
+  {
+    "word": "different",
+    "label": "TYPE",
+    "label_full": "type_reference"
+  },
+  {
+    "word": "diseases",
+    "label": "PEST",
+    "label_full": "pest_control"
+  },
+  {
+    "word": "does",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "dose",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "eating",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "enhance",
+    "label": "CUL",
+    "label_full": "best_practice"
+  },
+  {
+    "word": "expect",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "falling",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "fertilizer",
+    "label": "FERT",
+    "label_full": "fertilizer"
+  },
+  {
+    "word": "field",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "for",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "forecast",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "from",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "gehun",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "get",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "going",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "gram",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "green",
+    "label": "ADJ",
+    "label_full": "adjective"
+  },
+  {
+    "word": "groundnut",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "grow",
+    "label": "CUL",
+    "label_full": "cultivation"
+  },
+  {
+    "word": "growing",
+    "label": "CUL",
+    "label_full": "cultivation"
+  },
+  {
+    "word": "grows",
+    "label": "CUL",
+    "label_full": "cultivation"
+  },
+  {
+    "word": "harvest",
+    "label": "TIME",
+    "label_full": "harvest_reference"
+  },
+  {
+    "word": "has",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "hector",
+    "label": "MSR",
+    "label_full": "measurement"
+  },
+  {
+    "word": "hello",
+    "label": "GREET",
+    "label_full": "greeting"
+  },
+  {
+    "word": "hey",
+    "label": "GREET",
+    "label_full": "greeting"
+  },
+  {
+    "word": "heya",
+    "label": "GREET",
+    "label_full": "greeting"
+  },
+  {
+    "word": "hi",
+    "label": "GREET",
+    "label_full": "greeting"
+  },
+  {
+    "word": "high",
+    "label": "ADJ",
+    "label_full": "adjective"
+  },
+  {
+    "word": "highest",
+    "label": "ADJ",
+    "label_full": "adjective"
+  },
+  {
+    "word": "how",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "i",
+    "label": "USR",
+    "label_full": "user_reference"
+  },
+  {
+    "word": "ideal",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "improve",
+    "label": "CUL",
+    "label_full": "best_practice"
+  },
+  {
+    "word": "in",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "insects",
+    "label": "PEST",
+    "label_full": "pest_control"
+  },
+  {
+    "word": "irrigation",
+    "label": "IRR",
+    "label_full": "irrigation"
+  },
+  {
+    "word": "is",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "it",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "jowar",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "kapus",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "keeda",
+    "label": "PEST",
+    "label_full": "pest_control"
+  },
+  {
+    "word": "kg",
+    "label": "MSR",
+    "label_full": "measurement"
+  },
+  {
+    "word": "khaad",
+    "label": "FERT",
+    "label_full": "fertilizer"
+  },
+  {
+    "word": "land",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "leaves",
+    "label": "PEST",
+    "label_full": "pest_control"
+  },
+  {
+    "word": "like",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "long",
+    "label": "TIME",
+    "label_full": "time_reference"
+  },
+  {
+    "word": "low",
+    "label": "ADJ",
+    "label_full": "adjective"
+  },
+  {
+    "word": "maize",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "mandi",
+    "label": "MKT",
+    "label_full": "market_price"
+  },
+  {
+    "word": "many",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "market",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "mitti",
+    "label": "SOIL",
+    "label_full": "soil"
+  },
+  {
+    "word": "month",
+    "label": "TIME",
+    "label_full": "time_reference"
+  },
+  {
+    "word": "months",
+    "label": "TIME",
+    "label_full": "time_reference"
+  },
+  {
+    "word": "more",
+    "label": "ADJ",
+    "label_full": "adjective"
+  },
+  {
+    "word": "much",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "my",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "mysore",
+    "label": "LOC",
+    "label_full": "location"
+  },
+  {
+    "word": "namaste",
+    "label": "GREET",
+    "label_full": "greeting"
+  },
+  {
+    "word": "name",
+    "label": "INT",
+    "label_full": "intent_keyword"
+  },
+  {
+    "word": "need",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "needed",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "needs",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "of",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "off",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "on",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "one",
+    "label": "QTY",
+    "label_full": "quantity"
+  },
+  {
+    "word": "paddy",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "peas",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "pesticide",
+    "label": "PEST",
+    "label_full": "pest_control"
+  },
+  {
+    "word": "places",
+    "label": "LOC",
+    "label_full": "location"
+  },
+  {
+    "word": "price",
+    "label": "MKT",
+    "label_full": "market_price"
+  },
+  {
+    "word": "production",
+    "label": "YLD",
+    "label_full": "yield"
+  },
+  {
+    "word": "protect",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "pyaaz",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "quantity",
+    "label": "QTY",
+    "label_full": "quantity"
+  },
+  {
+    "word": "ragi",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "rain",
+    "label": "WEA",
+    "label_full": "weather"
+  },
+  {
+    "word": "rainfall",
+    "label": "WEA",
+    "label_full": "weather"
+  },
+  {
+    "word": "reap",
+    "label": "TIME",
+    "label_full": "harvest_reference"
+  },
+  {
+    "word": "red",
+    "label": "ADJ",
+    "label_full": "adjective"
+  },
+  {
+    "word": "report",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "required",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "rice",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "rog",
+    "label": "PEST",
+    "label_full": "pest_control"
+  },
+  {
+    "word": "season",
+    "label": "TIME",
+    "label_full": "time_reference"
+  },
+  {
+    "word": "seed",
+    "label": "SEED",
+    "label_full": "seed"
+  },
+  {
+    "word": "seeds",
+    "label": "SEED",
+    "label_full": "seed"
+  },
+  {
+    "word": "should",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "soil",
+    "label": "SOIL",
+    "label_full": "soil"
+  },
+  {
+    "word": "sow",
+    "label": "TIME",
+    "label_full": "sowing_reference"
+  },
+  {
+    "word": "soyabean",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "stemborer",
+    "label": "PEST",
+    "label_full": "pest_control"
+  },
+  {
+    "word": "sugarcane",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "sunflower",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "sunny",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "take",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "taken",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "the",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "there",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "this",
+    "label": "ADJ",
+    "label_full": "adjective"
+  },
+  {
+    "word": "time",
+    "label": "TIME",
+    "label_full": "time_reference"
+  },
+  {
+    "word": "timely",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "to",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "tobacco",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "today",
+    "label": "TIME",
+    "label_full": "time_reference"
+  },
+  {
+    "word": "tomorrow",
+    "label": "TIME",
+    "label_full": "time_reference"
+  },
+  {
+    "word": "types",
+    "label": "TYPE",
+    "label_full": "type_reference"
+  },
+  {
+    "word": "upcoming",
+    "label": "ADJ",
+    "label_full": "adjective"
+  },
+  {
+    "word": "use",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "varieties",
+    "label": "TYPE",
+    "label_full": "type_reference"
+  },
+  {
+    "word": "variety",
+    "label": "TYPE",
+    "label_full": "type_reference"
+  },
+  {
+    "word": "want",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "water",
+    "label": "IRR",
+    "label_full": "irrigation"
+  },
+  {
+    "word": "weather",
+    "label": "WEA",
+    "label_full": "weather"
+  },
+  {
+    "word": "weeds",
+    "label": "PEST",
+    "label_full": "pest_control"
+  },
+  {
+    "word": "week",
+    "label": "TIME",
+    "label_full": "time_reference"
+  },
+  {
+    "word": "weekend",
+    "label": "TIME",
+    "label_full": "time_reference"
+  },
+  {
+    "word": "well",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "what",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "wheat",
+    "label": "CROP",
+    "label_full": "crop_name"
+  },
+  {
+    "word": "when",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "which",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "will",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "with",
+    "label": "SW",
+    "label_full": "stopword"
+  },
+  {
+    "word": "yellow",
+    "label": "ADJ",
+    "label_full": "adjective"
+  },
+  {
+    "word": "yield",
+    "label": "YLD",
+    "label_full": "yield"
+  },
+  {
+    "word": "yojana",
+    "label": "SCH",
+    "label_full": "scheme"
+  }
+]

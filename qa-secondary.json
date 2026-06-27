@@ -1,0 +1,4525 @@
+[
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "rice",
+    "question": "What is the solution for root rot in Rice",
+    "answer": "To manage root rot in Rice, apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "rice",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "maize",
+    "question": "What causes yellow leaves in Maize",
+    "answer": "To manage yellow leaves in Maize, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "maize",
+      "symptom"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "sugarcane",
+    "question": "What is the solution for nutrient deficiency in Sugarcane",
+    "answer": "To manage nutrient deficiency in Sugarcane, perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "wheat",
+    "question": "What causes wilting in Wheat",
+    "answer": "To manage wilting in Wheat, apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "soybean",
+    "question": "What causes weed growth in Soybean",
+    "answer": "To manage weed growth in Soybean, conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "groundnut",
+    "question": "How can I prevent wilting in Groundnut",
+    "answer": "To manage wilting in Groundnut, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "groundnut",
+    "question": "Why does my Groundnut show root rot",
+    "answer": "You can solve root rot in Groundnut by following this perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "sugarcane",
+    "question": "What causes yellow leaves in Sugarcane",
+    "answer": "You can solve yellow leaves in Sugarcane by following this ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "symptom"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "cotton",
+    "question": "How can I prevent leaf spots in Cotton",
+    "answer": "To manage leaf spots in Cotton, perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "tomato",
+    "question": "How to improve pest attack problem in Tomato",
+    "answer": "To manage pest attack in Tomato, apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "cotton",
+    "question": "What causes root rot in Cotton",
+    "answer": "You can solve root rot in Cotton by following this perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "soybean",
+    "question": "What is the solution for leaf spots in Soybean",
+    "answer": "You can solve leaf spots in Soybean by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "onion",
+    "question": "What causes wilting in Onion",
+    "answer": "You can solve wilting in Onion by following this perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "onion",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "potato",
+    "question": "What causes leaf spots in Potato",
+    "answer": "You can solve leaf spots in Potato by following this ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "potato",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "groundnut",
+    "question": "How to improve root rot problem in Groundnut",
+    "answer": "You can solve root rot in Groundnut by following this conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "cultivation",
+    "crop": "groundnut",
+    "question": "How can I prevent yellow leaves in Groundnut",
+    "answer": "To manage yellow leaves in Groundnut, use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "crop advice"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "tomato",
+    "question": "What is the solution for wilting in Tomato",
+    "answer": "You can solve wilting in Tomato by following this use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "soybean",
+    "question": "How to control wilting in Soybean",
+    "answer": "You can solve wilting in Soybean by following this spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "wheat",
+    "question": "How to control nutrient deficiency in Wheat",
+    "answer": "You can solve nutrient deficiency in Wheat by following this use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "Best treatment for root rot in Maize",
+    "answer": "You can solve root rot in Maize by following this apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "maize",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "cotton",
+    "question": "What causes low yield in Cotton",
+    "answer": "To manage low yield in Cotton, perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "potato",
+    "question": "How to control weed growth in Potato",
+    "answer": "You can solve weed growth in Potato by following this apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "potato",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "maize",
+    "question": "What is the solution for poor germination in Maize",
+    "answer": "You can solve poor germination in Maize by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "maize",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "potato",
+    "question": "Why does my Potato show fungal disease",
+    "answer": "To manage fungal disease in Potato, use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "potato",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "groundnut",
+    "question": "How to control leaf spots in Groundnut",
+    "answer": "To manage leaf spots in Groundnut, perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "onion",
+    "question": "What is the solution for yellow leaves in Onion",
+    "answer": "You can solve yellow leaves in Onion by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "onion",
+      "symptom"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "cotton",
+    "question": "How to control weed growth in Cotton",
+    "answer": "To manage weed growth in Cotton, use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "tomato",
+    "question": "Why does my Tomato show wilting",
+    "answer": "To manage wilting in Tomato, apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "rice",
+    "question": "How can I prevent fungal disease in Rice",
+    "answer": "You can solve fungal disease in Rice by following this perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "rice",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "groundnut",
+    "question": "Best treatment for low yield in Groundnut",
+    "answer": "To manage low yield in Groundnut, apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "Why does my Maize show root rot",
+    "answer": "You can solve root rot in Maize by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "maize",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "groundnut",
+    "question": "How to improve poor germination problem in Groundnut",
+    "answer": "To manage poor germination in Groundnut, apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "tomato",
+    "question": "How to improve weed growth problem in Tomato",
+    "answer": "You can solve weed growth in Tomato by following this apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "cotton",
+    "question": "What is the solution for wilting in Cotton",
+    "answer": "You can solve wilting in Cotton by following this conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "tomato",
+    "question": "What is the solution for leaf spots in Tomato",
+    "answer": "To manage leaf spots in Tomato, use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "wheat",
+    "question": "What is the solution for fungal disease in Wheat",
+    "answer": "You can solve fungal disease in Wheat by following this use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "wheat",
+    "question": "How to improve root rot problem in Wheat",
+    "answer": "To manage root rot in Wheat, perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "tomato",
+    "question": "What is the solution for low yield in Tomato",
+    "answer": "To manage low yield in Tomato, apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "tomato",
+    "question": "Why does my Tomato show fungal disease",
+    "answer": "To manage fungal disease in Tomato, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "onion",
+    "question": "What causes low yield in Onion",
+    "answer": "To manage low yield in Onion, apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "onion",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "sugarcane",
+    "question": "How can I prevent fungal disease in Sugarcane",
+    "answer": "You can solve fungal disease in Sugarcane by following this ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "onion",
+    "question": "What is the solution for weed growth in Onion",
+    "answer": "To manage weed growth in Onion, use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "onion",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "soybean",
+    "question": "How to improve yellow leaves problem in Soybean",
+    "answer": "To manage yellow leaves in Soybean, conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "symptom"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "rice",
+    "question": "How can I prevent root rot in Rice",
+    "answer": "You can solve root rot in Rice by following this apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "rice",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "groundnut",
+    "question": "How to improve weed growth problem in Groundnut",
+    "answer": "To manage weed growth in Groundnut, perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "sugarcane",
+    "question": "How to control wilting in Sugarcane",
+    "answer": "To manage wilting in Sugarcane, perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "potato",
+    "question": "How can I prevent low yield in Potato",
+    "answer": "To manage low yield in Potato, apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "potato",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "groundnut",
+    "question": "How can I prevent pest attack in Groundnut",
+    "answer": "To manage pest attack in Groundnut, use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "maize",
+    "question": "Why does my Maize show poor germination",
+    "answer": "You can solve poor germination in Maize by following this use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "maize",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "onion",
+    "question": "Why does my Onion show weed growth",
+    "answer": "You can solve weed growth in Onion by following this use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "onion",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "potato",
+    "question": "How can I prevent poor germination in Potato",
+    "answer": "To manage poor germination in Potato, apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "potato",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "potato",
+    "question": "Best treatment for poor germination in Potato",
+    "answer": "To manage poor germination in Potato, use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "potato",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "onion",
+    "question": "How to control low yield in Onion",
+    "answer": "To manage low yield in Onion, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "onion",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "onion",
+    "question": "How to control yellow leaves in Onion",
+    "answer": "To manage yellow leaves in Onion, use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "onion",
+      "symptom"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "How to control fungal disease in Maize",
+    "answer": "To manage fungal disease in Maize, apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "maize",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "soybean",
+    "question": "Best treatment for poor germination in Soybean",
+    "answer": "To manage poor germination in Soybean, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "soybean",
+    "question": "Best treatment for fungal disease in Soybean",
+    "answer": "You can solve fungal disease in Soybean by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "cotton",
+    "question": "How can I prevent pest attack in Cotton",
+    "answer": "You can solve pest attack in Cotton by following this use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "onion",
+    "question": "How can I prevent fungal disease in Onion",
+    "answer": "You can solve fungal disease in Onion by following this ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "onion",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "potato",
+    "question": "What is the solution for wilting in Potato",
+    "answer": "To manage wilting in Potato, apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "potato",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "tomato",
+    "question": "How can I prevent poor germination in Tomato",
+    "answer": "To manage poor germination in Tomato, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "potato",
+    "question": "How can I prevent pest attack in Potato",
+    "answer": "To manage pest attack in Potato, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "potato",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "soybean",
+    "question": "Best treatment for nutrient deficiency in Soybean",
+    "answer": "You can solve nutrient deficiency in Soybean by following this apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "sugarcane",
+    "question": "Best treatment for wilting in Sugarcane",
+    "answer": "To manage wilting in Sugarcane, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "cultivation",
+    "crop": "potato",
+    "question": "How can I prevent yellow leaves in Potato",
+    "answer": "To manage yellow leaves in Potato, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "potato",
+      "crop advice"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "groundnut",
+    "question": "What causes nutrient deficiency in Groundnut",
+    "answer": "To manage nutrient deficiency in Groundnut, conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "sugarcane",
+    "question": "What causes wilting in Sugarcane",
+    "answer": "You can solve wilting in Sugarcane by following this perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "groundnut",
+    "question": "What is the solution for wilting in Groundnut",
+    "answer": "To manage wilting in Groundnut, apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "groundnut",
+    "question": "What is the solution for fungal disease in Groundnut",
+    "answer": "You can solve fungal disease in Groundnut by following this conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "tomato",
+    "question": "Best treatment for leaf spots in Tomato",
+    "answer": "To manage leaf spots in Tomato, apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "onion",
+    "question": "Why does my Onion show root rot",
+    "answer": "You can solve root rot in Onion by following this spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "onion",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "wheat",
+    "question": "How to improve yellow leaves problem in Wheat",
+    "answer": "To manage yellow leaves in Wheat, conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "symptom"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "tomato",
+    "question": "How to improve nutrient deficiency problem in Tomato",
+    "answer": "To manage nutrient deficiency in Tomato, apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "onion",
+    "question": "What is the solution for root rot in Onion",
+    "answer": "To manage root rot in Onion, perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "onion",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "cotton",
+    "question": "How to improve yellow leaves problem in Cotton",
+    "answer": "You can solve yellow leaves in Cotton by following this spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "symptom"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "groundnut",
+    "question": "What is the solution for root rot in Groundnut",
+    "answer": "You can solve root rot in Groundnut by following this apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "potato",
+    "question": "How to control poor germination in Potato",
+    "answer": "You can solve poor germination in Potato by following this spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "potato",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "soybean",
+    "question": "Why does my Soybean show pest attack",
+    "answer": "You can solve pest attack in Soybean by following this conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "potato",
+    "question": "What is the solution for low yield in Potato",
+    "answer": "You can solve low yield in Potato by following this ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "potato",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "maize",
+    "question": "How to control poor germination in Maize",
+    "answer": "To manage poor germination in Maize, use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "maize",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "How to control wilting in Maize",
+    "answer": "You can solve wilting in Maize by following this spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "maize",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "sugarcane",
+    "question": "How to improve yellow leaves problem in Sugarcane",
+    "answer": "To manage yellow leaves in Sugarcane, apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "symptom"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "cotton",
+    "question": "Best treatment for yellow leaves in Cotton",
+    "answer": "You can solve yellow leaves in Cotton by following this apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "symptom"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "soybean",
+    "question": "How to control fungal disease in Soybean",
+    "answer": "To manage fungal disease in Soybean, use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "cotton",
+    "question": "Best treatment for nutrient deficiency in Cotton",
+    "answer": "To manage nutrient deficiency in Cotton, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "cotton",
+    "question": "What causes pest attack in Cotton",
+    "answer": "To manage pest attack in Cotton, apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "potato",
+    "question": "What causes low yield in Potato",
+    "answer": "To manage low yield in Potato, use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "potato",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "Best treatment for wilting in Maize",
+    "answer": "To manage wilting in Maize, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "maize",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "cotton",
+    "question": "What causes leaf spots in Cotton",
+    "answer": "To manage leaf spots in Cotton, use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "rice",
+    "question": "Best treatment for nutrient deficiency in Rice",
+    "answer": "You can solve nutrient deficiency in Rice by following this apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "rice",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "sugarcane",
+    "question": "Why does my Sugarcane show poor germination",
+    "answer": "You can solve poor germination in Sugarcane by following this apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "rice",
+    "question": "How to improve low yield problem in Rice",
+    "answer": "To manage low yield in Rice, apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "rice",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "wheat",
+    "question": "What causes yellow leaves in Wheat",
+    "answer": "To manage yellow leaves in Wheat, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "symptom"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "cotton",
+    "question": "What is the solution for fungal disease in Cotton",
+    "answer": "You can solve fungal disease in Cotton by following this perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "maize",
+    "question": "What is the solution for weed growth in Maize",
+    "answer": "To manage weed growth in Maize, use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "maize",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "cotton",
+    "question": "What causes wilting in Cotton",
+    "answer": "You can solve wilting in Cotton by following this perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "How to control pest attack in Maize",
+    "answer": "You can solve pest attack in Maize by following this use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "maize",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "tomato",
+    "question": "Best treatment for pest attack in Tomato",
+    "answer": "To manage pest attack in Tomato, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "wheat",
+    "question": "Why does my Wheat show yellow leaves",
+    "answer": "To manage yellow leaves in Wheat, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "symptom"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "soybean",
+    "question": "Why does my Soybean show wilting",
+    "answer": "To manage wilting in Soybean, perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "potato",
+    "question": "What is the solution for root rot in Potato",
+    "answer": "To manage root rot in Potato, apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "potato",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "wheat",
+    "question": "How to control weed growth in Wheat",
+    "answer": "You can solve weed growth in Wheat by following this perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "rice",
+    "question": "How to improve leaf spots problem in Rice",
+    "answer": "To manage leaf spots in Rice, use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "rice",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "groundnut",
+    "question": "How to control root rot in Groundnut",
+    "answer": "You can solve root rot in Groundnut by following this ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "tomato",
+    "question": "How to improve low yield problem in Tomato",
+    "answer": "You can solve low yield in Tomato by following this perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "potato",
+    "question": "Best treatment for leaf spots in Potato",
+    "answer": "You can solve leaf spots in Potato by following this perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "potato",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "wheat",
+    "question": "What is the solution for nutrient deficiency in Wheat",
+    "answer": "To manage nutrient deficiency in Wheat, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "tomato",
+    "question": "How can I prevent root rot in Tomato",
+    "answer": "You can solve root rot in Tomato by following this use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "groundnut",
+    "question": "How can I prevent root rot in Groundnut",
+    "answer": "You can solve root rot in Groundnut by following this conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "onion",
+    "question": "Why does my Onion show wilting",
+    "answer": "You can solve wilting in Onion by following this apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "onion",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "soybean",
+    "question": "How to improve low yield problem in Soybean",
+    "answer": "To manage low yield in Soybean, use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "How can I prevent pest attack in Maize",
+    "answer": "You can solve pest attack in Maize by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "maize",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "soybean",
+    "question": "What is the solution for low yield in Soybean",
+    "answer": "You can solve low yield in Soybean by following this conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "potato",
+    "question": "What is the solution for pest attack in Potato",
+    "answer": "You can solve pest attack in Potato by following this conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "potato",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "soybean",
+    "question": "How can I prevent fungal disease in Soybean",
+    "answer": "To manage fungal disease in Soybean, apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "rice",
+    "question": "What causes yellow leaves in Rice",
+    "answer": "To manage yellow leaves in Rice, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "rice",
+      "symptom"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "tomato",
+    "question": "What is the solution for pest attack in Tomato",
+    "answer": "You can solve pest attack in Tomato by following this ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "cultivation",
+    "crop": "rice",
+    "question": "How can I prevent yellow leaves in Rice",
+    "answer": "To manage yellow leaves in Rice, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "rice",
+      "crop advice"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "soybean",
+    "question": "What causes yellow leaves in Soybean",
+    "answer": "You can solve yellow leaves in Soybean by following this apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "symptom"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "onion",
+    "question": "What causes poor germination in Onion",
+    "answer": "To manage poor germination in Onion, conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "onion",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "onion",
+    "question": "What is the solution for wilting in Onion",
+    "answer": "To manage wilting in Onion, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "onion",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "potato",
+    "question": "Best treatment for wilting in Potato",
+    "answer": "You can solve wilting in Potato by following this apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "potato",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "cotton",
+    "question": "How to control poor germination in Cotton",
+    "answer": "To manage poor germination in Cotton, apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "cotton",
+    "question": "Why does my Cotton show root rot",
+    "answer": "You can solve root rot in Cotton by following this use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "cotton",
+    "question": "Best treatment for leaf spots in Cotton",
+    "answer": "To manage leaf spots in Cotton, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "rice",
+    "question": "What is the solution for wilting in Rice",
+    "answer": "You can solve wilting in Rice by following this conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "rice",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "wheat",
+    "question": "How to improve nutrient deficiency problem in Wheat",
+    "answer": "You can solve nutrient deficiency in Wheat by following this use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "potato",
+    "question": "How to improve pest attack problem in Potato",
+    "answer": "To manage pest attack in Potato, conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "potato",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "tomato",
+    "question": "What causes fungal disease in Tomato",
+    "answer": "You can solve fungal disease in Tomato by following this apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "groundnut",
+    "question": "Why does my Groundnut show low yield",
+    "answer": "To manage low yield in Groundnut, use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "soybean",
+    "question": "How can I prevent root rot in Soybean",
+    "answer": "You can solve root rot in Soybean by following this apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "potato",
+    "question": "Why does my Potato show pest attack",
+    "answer": "To manage pest attack in Potato, apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "potato",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "rice",
+    "question": "How to improve nutrient deficiency problem in Rice",
+    "answer": "You can solve nutrient deficiency in Rice by following this apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "rice",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "cultivation",
+    "crop": "onion",
+    "question": "How can I prevent yellow leaves in Onion",
+    "answer": "You can solve yellow leaves in Onion by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "onion",
+      "crop advice"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "How can I prevent fungal disease in Maize",
+    "answer": "To manage fungal disease in Maize, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "maize",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "soybean",
+    "question": "Best treatment for wilting in Soybean",
+    "answer": "To manage wilting in Soybean, conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "potato",
+    "question": "Best treatment for nutrient deficiency in Potato",
+    "answer": "You can solve nutrient deficiency in Potato by following this use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "potato",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "How to control root rot in Maize",
+    "answer": "To manage root rot in Maize, apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "maize",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "wheat",
+    "question": "Why does my Wheat show fungal disease",
+    "answer": "You can solve fungal disease in Wheat by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "tomato",
+    "question": "How can I prevent low yield in Tomato",
+    "answer": "You can solve low yield in Tomato by following this spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "potato",
+    "question": "How to improve root rot problem in Potato",
+    "answer": "You can solve root rot in Potato by following this perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "potato",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "cotton",
+    "question": "What causes fungal disease in Cotton",
+    "answer": "To manage fungal disease in Cotton, apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "soybean",
+    "question": "Why does my Soybean show nutrient deficiency",
+    "answer": "You can solve nutrient deficiency in Soybean by following this conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "groundnut",
+    "question": "Best treatment for pest attack in Groundnut",
+    "answer": "To manage pest attack in Groundnut, conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "groundnut",
+    "question": "Best treatment for fungal disease in Groundnut",
+    "answer": "To manage fungal disease in Groundnut, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "onion",
+    "question": "What is the solution for poor germination in Onion",
+    "answer": "To manage poor germination in Onion, conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "onion",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "rice",
+    "question": "How to control fungal disease in Rice",
+    "answer": "You can solve fungal disease in Rice by following this perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "rice",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "wheat",
+    "question": "Best treatment for nutrient deficiency in Wheat",
+    "answer": "You can solve nutrient deficiency in Wheat by following this apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "soybean",
+    "question": "How to improve fungal disease problem in Soybean",
+    "answer": "To manage fungal disease in Soybean, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "soybean",
+    "question": "What is the solution for poor germination in Soybean",
+    "answer": "You can solve poor germination in Soybean by following this spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "onion",
+    "question": "How to control poor germination in Onion",
+    "answer": "You can solve poor germination in Onion by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "onion",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "How to improve fungal disease problem in Maize",
+    "answer": "You can solve fungal disease in Maize by following this apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "maize",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "rice",
+    "question": "Best treatment for weed growth in Rice",
+    "answer": "You can solve weed growth in Rice by following this apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "rice",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "What is the solution for wilting in Maize",
+    "answer": "To manage wilting in Maize, apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "maize",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "cotton",
+    "question": "What is the solution for pest attack in Cotton",
+    "answer": "You can solve pest attack in Cotton by following this conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "rice",
+    "question": "How can I prevent weed growth in Rice",
+    "answer": "To manage weed growth in Rice, perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "rice",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "wheat",
+    "question": "Why does my Wheat show pest attack",
+    "answer": "To manage pest attack in Wheat, conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "onion",
+    "question": "How to improve root rot problem in Onion",
+    "answer": "You can solve root rot in Onion by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "onion",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "potato",
+    "question": "Why does my Potato show root rot",
+    "answer": "To manage root rot in Potato, conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "potato",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "rice",
+    "question": "How to control low yield in Rice",
+    "answer": "You can solve low yield in Rice by following this use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "rice",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "onion",
+    "question": "What is the solution for leaf spots in Onion",
+    "answer": "To manage leaf spots in Onion, perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "onion",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "onion",
+    "question": "What is the solution for low yield in Onion",
+    "answer": "You can solve low yield in Onion by following this ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "onion",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "What causes pest attack in Maize",
+    "answer": "To manage pest attack in Maize, apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "maize",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "rice",
+    "question": "Best treatment for leaf spots in Rice",
+    "answer": "You can solve leaf spots in Rice by following this apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "rice",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "sugarcane",
+    "question": "How can I prevent nutrient deficiency in Sugarcane",
+    "answer": "To manage nutrient deficiency in Sugarcane, use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "soybean",
+    "question": "How to control nutrient deficiency in Soybean",
+    "answer": "To manage nutrient deficiency in Soybean, use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "maize",
+    "question": "Why does my Maize show weed growth",
+    "answer": "To manage weed growth in Maize, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "maize",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "onion",
+    "question": "Best treatment for root rot in Onion",
+    "answer": "You can solve root rot in Onion by following this apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "onion",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "wheat",
+    "question": "Best treatment for pest attack in Wheat",
+    "answer": "To manage pest attack in Wheat, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "What is the solution for fungal disease in Maize",
+    "answer": "To manage fungal disease in Maize, conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "maize",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "rice",
+    "question": "What is the solution for leaf spots in Rice",
+    "answer": "To manage leaf spots in Rice, apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "rice",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "potato",
+    "question": "What is the solution for yellow leaves in Potato",
+    "answer": "To manage yellow leaves in Potato, use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "potato",
+      "symptom"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "sugarcane",
+    "question": "What causes pest attack in Sugarcane",
+    "answer": "You can solve pest attack in Sugarcane by following this apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "maize",
+    "question": "How to control yellow leaves in Maize",
+    "answer": "To manage yellow leaves in Maize, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "maize",
+      "symptom"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "wheat",
+    "question": "What causes fungal disease in Wheat",
+    "answer": "To manage fungal disease in Wheat, conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "soybean",
+    "question": "What causes low yield in Soybean",
+    "answer": "You can solve low yield in Soybean by following this apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "sugarcane",
+    "question": "How can I prevent weed growth in Sugarcane",
+    "answer": "To manage weed growth in Sugarcane, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "rice",
+    "question": "How to control root rot in Rice",
+    "answer": "To manage root rot in Rice, use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "rice",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "How to improve root rot problem in Maize",
+    "answer": "To manage root rot in Maize, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "maize",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "potato",
+    "question": "Why does my Potato show low yield",
+    "answer": "You can solve low yield in Potato by following this apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "potato",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "groundnut",
+    "question": "What is the solution for pest attack in Groundnut",
+    "answer": "To manage pest attack in Groundnut, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "cotton",
+    "question": "How to improve low yield problem in Cotton",
+    "answer": "To manage low yield in Cotton, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "onion",
+    "question": "What causes weed growth in Onion",
+    "answer": "To manage weed growth in Onion, perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "onion",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "wheat",
+    "question": "Best treatment for poor germination in Wheat",
+    "answer": "To manage poor germination in Wheat, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "Why does my Maize show fungal disease",
+    "answer": "To manage fungal disease in Maize, apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "maize",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "groundnut",
+    "question": "How to control nutrient deficiency in Groundnut",
+    "answer": "To manage nutrient deficiency in Groundnut, conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "rice",
+    "question": "Why does my Rice show low yield",
+    "answer": "To manage low yield in Rice, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "rice",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "soybean",
+    "question": "What is the solution for nutrient deficiency in Soybean",
+    "answer": "To manage nutrient deficiency in Soybean, use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "soybean",
+    "question": "Why does my Soybean show poor germination",
+    "answer": "To manage poor germination in Soybean, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "sugarcane",
+    "question": "What is the solution for poor germination in Sugarcane",
+    "answer": "You can solve poor germination in Sugarcane by following this conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "groundnut",
+    "question": "How to control fungal disease in Groundnut",
+    "answer": "To manage fungal disease in Groundnut, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "sugarcane",
+    "question": "Why does my Sugarcane show fungal disease",
+    "answer": "You can solve fungal disease in Sugarcane by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "groundnut",
+    "question": "How to improve wilting problem in Groundnut",
+    "answer": "To manage wilting in Groundnut, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "wheat",
+    "question": "What causes root rot in Wheat",
+    "answer": "You can solve root rot in Wheat by following this apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "tomato",
+    "question": "How can I prevent wilting in Tomato",
+    "answer": "You can solve wilting in Tomato by following this apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "onion",
+    "question": "How to improve nutrient deficiency problem in Onion",
+    "answer": "To manage nutrient deficiency in Onion, apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "onion",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "potato",
+    "question": "How to improve weed growth problem in Potato",
+    "answer": "You can solve weed growth in Potato by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "potato",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "wheat",
+    "question": "How to control poor germination in Wheat",
+    "answer": "To manage poor germination in Wheat, use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "tomato",
+    "question": "What is the solution for fungal disease in Tomato",
+    "answer": "To manage fungal disease in Tomato, conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "cotton",
+    "question": "Best treatment for wilting in Cotton",
+    "answer": "You can solve wilting in Cotton by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "groundnut",
+    "question": "Best treatment for poor germination in Groundnut",
+    "answer": "You can solve poor germination in Groundnut by following this apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "potato",
+    "question": "How to improve fungal disease problem in Potato",
+    "answer": "To manage fungal disease in Potato, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "potato",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "tomato",
+    "question": "Why does my Tomato show low yield",
+    "answer": "To manage low yield in Tomato, use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "maize",
+    "question": "What causes poor germination in Maize",
+    "answer": "To manage poor germination in Maize, apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "maize",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "wheat",
+    "question": "Best treatment for fungal disease in Wheat",
+    "answer": "To manage fungal disease in Wheat, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "rice",
+    "question": "What is the solution for poor germination in Rice",
+    "answer": "You can solve poor germination in Rice by following this perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "rice",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "sugarcane",
+    "question": "What is the solution for fungal disease in Sugarcane",
+    "answer": "To manage fungal disease in Sugarcane, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "sugarcane",
+    "question": "What is the solution for pest attack in Sugarcane",
+    "answer": "You can solve pest attack in Sugarcane by following this perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "sugarcane",
+    "question": "What causes poor germination in Sugarcane",
+    "answer": "To manage poor germination in Sugarcane, apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "potato",
+    "question": "Why does my Potato show weed growth",
+    "answer": "You can solve weed growth in Potato by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "potato",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "soybean",
+    "question": "How can I prevent weed growth in Soybean",
+    "answer": "To manage weed growth in Soybean, apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "rice",
+    "question": "Why does my Rice show weed growth",
+    "answer": "To manage weed growth in Rice, use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "rice",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "onion",
+    "question": "How to improve fungal disease problem in Onion",
+    "answer": "To manage fungal disease in Onion, apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "onion",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "cotton",
+    "question": "How can I prevent wilting in Cotton",
+    "answer": "To manage wilting in Cotton, conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "sugarcane",
+    "question": "What causes fungal disease in Sugarcane",
+    "answer": "To manage fungal disease in Sugarcane, conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "groundnut",
+    "question": "Best treatment for yellow leaves in Groundnut",
+    "answer": "You can solve yellow leaves in Groundnut by following this apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "symptom"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "potato",
+    "question": "What causes weed growth in Potato",
+    "answer": "To manage weed growth in Potato, perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "potato",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "soybean",
+    "question": "Why does my Soybean show weed growth",
+    "answer": "You can solve weed growth in Soybean by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "groundnut",
+    "question": "How can I prevent nutrient deficiency in Groundnut",
+    "answer": "You can solve nutrient deficiency in Groundnut by following this apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "tomato",
+    "question": "Best treatment for weed growth in Tomato",
+    "answer": "You can solve weed growth in Tomato by following this ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "sugarcane",
+    "question": "How to control weed growth in Sugarcane",
+    "answer": "To manage weed growth in Sugarcane, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "rice",
+    "question": "Why does my Rice show nutrient deficiency",
+    "answer": "To manage nutrient deficiency in Rice, use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "rice",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "soybean",
+    "question": "How to improve leaf spots problem in Soybean",
+    "answer": "You can solve leaf spots in Soybean by following this perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "groundnut",
+    "question": "What causes weed growth in Groundnut",
+    "answer": "You can solve weed growth in Groundnut by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "groundnut",
+    "question": "How to control low yield in Groundnut",
+    "answer": "To manage low yield in Groundnut, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "sugarcane",
+    "question": "How can I prevent poor germination in Sugarcane",
+    "answer": "You can solve poor germination in Sugarcane by following this ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "cotton",
+    "question": "How to control leaf spots in Cotton",
+    "answer": "You can solve leaf spots in Cotton by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "rice",
+    "question": "What causes pest attack in Rice",
+    "answer": "To manage pest attack in Rice, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "rice",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "maize",
+    "question": "How can I prevent nutrient deficiency in Maize",
+    "answer": "You can solve nutrient deficiency in Maize by following this apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "maize",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "potato",
+    "question": "What causes nutrient deficiency in Potato",
+    "answer": "To manage nutrient deficiency in Potato, use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "potato",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "onion",
+    "question": "How to control fungal disease in Onion",
+    "answer": "You can solve fungal disease in Onion by following this perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "onion",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "rice",
+    "question": "What causes nutrient deficiency in Rice",
+    "answer": "You can solve nutrient deficiency in Rice by following this use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "rice",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "cotton",
+    "question": "What causes weed growth in Cotton",
+    "answer": "You can solve weed growth in Cotton by following this apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "Best treatment for fungal disease in Maize",
+    "answer": "You can solve fungal disease in Maize by following this use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "maize",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "tomato",
+    "question": "How to improve fungal disease problem in Tomato",
+    "answer": "To manage fungal disease in Tomato, use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "onion",
+    "question": "What is the solution for pest attack in Onion",
+    "answer": "You can solve pest attack in Onion by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "onion",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "tomato",
+    "question": "Best treatment for wilting in Tomato",
+    "answer": "To manage wilting in Tomato, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "How can I prevent leaf spots in Maize",
+    "answer": "You can solve leaf spots in Maize by following this perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "maize",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "tomato",
+    "question": "Why does my Tomato show leaf spots",
+    "answer": "To manage leaf spots in Tomato, ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "wheat",
+    "question": "What is the solution for yellow leaves in Wheat",
+    "answer": "You can solve yellow leaves in Wheat by following this conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "symptom"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "sugarcane",
+    "question": "What is the solution for root rot in Sugarcane",
+    "answer": "You can solve root rot in Sugarcane by following this conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "onion",
+    "question": "Best treatment for leaf spots in Onion",
+    "answer": "You can solve leaf spots in Onion by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "onion",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "cotton",
+    "question": "How can I prevent poor germination in Cotton",
+    "answer": "You can solve poor germination in Cotton by following this perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "cotton",
+    "question": "How can I prevent low yield in Cotton",
+    "answer": "To manage low yield in Cotton, use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "How to improve wilting problem in Maize",
+    "answer": "To manage wilting in Maize, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "maize",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "onion",
+    "question": "Best treatment for weed growth in Onion",
+    "answer": "You can solve weed growth in Onion by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "onion",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "What is the solution for root rot in Maize",
+    "answer": "To manage root rot in Maize, use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "maize",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "tomato",
+    "question": "Why does my Tomato show root rot",
+    "answer": "To manage root rot in Tomato, use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "groundnut",
+    "question": "How to improve nutrient deficiency problem in Groundnut",
+    "answer": "You can solve nutrient deficiency in Groundnut by following this spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "wheat",
+    "question": "What causes weed growth in Wheat",
+    "answer": "To manage weed growth in Wheat, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "weed"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "wheat",
+    "question": "What causes nutrient deficiency in Wheat",
+    "answer": "You can solve nutrient deficiency in Wheat by following this perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "Why does my Maize show leaf spots",
+    "answer": "To manage leaf spots in Maize, apply organic compost or manure to improve soil fertility",
+    "language": "en",
+    "tags": [
+      "maize",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "maize",
+    "question": "What is the solution for nutrient deficiency in Maize",
+    "answer": "To manage nutrient deficiency in Maize, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "maize",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "tomato",
+    "question": "How to control poor germination in Tomato",
+    "answer": "To manage poor germination in Tomato, conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "soybean",
+    "question": "Best treatment for leaf spots in Soybean",
+    "answer": "To manage leaf spots in Soybean, use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "potato",
+    "question": "What is the solution for leaf spots in Potato",
+    "answer": "You can solve leaf spots in Potato by following this ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "potato",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "soybean",
+    "question": "How to control leaf spots in Soybean",
+    "answer": "You can solve leaf spots in Soybean by following this conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "disease"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "cultivation",
+    "crop": "cotton",
+    "question": "How can I prevent yellow leaves in Cotton",
+    "answer": "To manage yellow leaves in Cotton, use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "crop advice"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "soybean",
+    "question": "How can I prevent pest attack in Soybean",
+    "answer": "To manage pest attack in Soybean, spray appropriate fungicides at early stages",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "tomato",
+    "question": "Best treatment for low yield in Tomato",
+    "answer": "You can solve low yield in Tomato by following this perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "wheat",
+    "question": "What causes low yield in Wheat",
+    "answer": "To manage low yield in Wheat, perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "maize",
+    "question": "Why does my Maize show pest attack",
+    "answer": "To manage pest attack in Maize, use neem oil or recommended pesticides to control pests",
+    "language": "en",
+    "tags": [
+      "maize",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "onion",
+    "question": "Why does my Onion show yellow leaves",
+    "answer": "To manage yellow leaves in Onion, conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "onion",
+      "symptom"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "cotton",
+    "question": "How to control nutrient deficiency in Cotton",
+    "answer": "You can solve nutrient deficiency in Cotton by following this apply balanced fertilizers like NPK and maintain proper irrigation",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "soybean",
+    "question": "How to control yellow leaves in Soybean",
+    "answer": "To manage yellow leaves in Soybean, perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "soybean",
+      "symptom"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "groundnut",
+    "question": "How can I prevent low yield in Groundnut",
+    "answer": "You can solve low yield in Groundnut by following this ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "onion",
+    "question": "Why does my Onion show pest attack",
+    "answer": "To manage pest attack in Onion, perform regular weeding and use mulching techniques",
+    "language": "en",
+    "tags": [
+      "onion",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "sugarcane",
+    "question": "How to control nutrient deficiency in Sugarcane",
+    "answer": "You can solve nutrient deficiency in Sugarcane by following this ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "groundnut",
+    "question": "What causes poor germination in Groundnut",
+    "answer": "To manage poor germination in Groundnut, conduct soil testing and adjust nutrients accordingly",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "yield prediction"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "groundnut",
+    "question": "How to improve low yield problem in Groundnut",
+    "answer": "You can solve low yield in Groundnut by following this ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "groundnut",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "sugarcane",
+    "question": "How to improve nutrient deficiency problem in Sugarcane",
+    "answer": "You can solve nutrient deficiency in Sugarcane by following this ensure proper drainage and avoid waterlogging",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "onion",
+    "question": "How can I prevent nutrient deficiency in Onion",
+    "answer": "You can solve nutrient deficiency in Onion by following this use certified seeds and follow proper sowing techniques",
+    "language": "en",
+    "tags": [
+      "onion",
+      "fertilizer"
+    ],
+    "source": "chatbot_5000_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "cotton",
+    "question": "What causes yellow leaves in cotton",
+    "answer": "To manage yellow leaves in cotton, Ensure proper drainage and avoid overwatering",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "symptom"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "tomato",
+    "question": "How can I prevent weed growth in tomato",
+    "answer": "To manage weed growth in tomato, Use organic fertilizers and proper irrigation",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "weed"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "tomato",
+    "question": "What causes yellow leaves in tomato",
+    "answer": "To manage yellow leaves in tomato, Use organic fertilizers and proper irrigation",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "symptom"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "tomato",
+    "question": "What causes weed growth in tomato",
+    "answer": "To manage weed growth in tomato, Ensure proper drainage and avoid overwatering",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "weed"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "sugarcane",
+    "question": "Why does my sugarcane have pests",
+    "answer": "To manage pests in sugarcane, Use certified seeds and balanced fertilizers",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "potato",
+    "question": "How to control yellow leaves in potato",
+    "answer": "To manage yellow leaves in potato, Use organic fertilizers and proper irrigation",
+    "language": "en",
+    "tags": [
+      "potato",
+      "symptom"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "tomato",
+    "question": "How to control pests in tomato",
+    "answer": "To manage pests in tomato, Use organic fertilizers and proper irrigation",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "cultivation",
+    "crop": "potato",
+    "question": "How can I prevent yellow leaves in potato",
+    "answer": "To manage yellow leaves in potato, Ensure proper drainage and avoid overwatering",
+    "language": "en",
+    "tags": [
+      "potato",
+      "crop advice"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "sugarcane",
+    "question": "How can I prevent weed growth in sugarcane",
+    "answer": "To manage weed growth in sugarcane, Ensure proper drainage and avoid overwatering",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "weed"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "sugarcane",
+    "question": "Why does my sugarcane have low yield",
+    "answer": "To manage low yield in sugarcane, Use organic fertilizers and proper irrigation",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "tomato",
+    "question": "Best solution for fungal disease in tomato",
+    "answer": "To manage fungal disease in tomato, Use organic fertilizers and proper irrigation",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "potato",
+    "question": "How can I prevent pests in potato",
+    "answer": "To manage pests in potato, Use organic fertilizers and proper irrigation",
+    "language": "en",
+    "tags": [
+      "potato",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "sugarcane",
+    "question": "Why does my sugarcane have fungal disease",
+    "answer": "To manage fungal disease in sugarcane, Use organic fertilizers and proper irrigation",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "potato",
+    "question": "How can I prevent low yield in potato",
+    "answer": "To manage low yield in potato, Follow crop rotation and soil testing",
+    "language": "en",
+    "tags": [
+      "potato",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "cotton",
+    "question": "What causes pests in cotton",
+    "answer": "To manage pests in cotton, Use organic fertilizers and proper irrigation",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "cotton",
+    "question": "What causes weed growth in cotton",
+    "answer": "To manage weed growth in cotton, Apply neem oil or suitable pesticides",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "weed"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "wheat",
+    "question": "How to control pests in wheat",
+    "answer": "To manage pests in wheat, Use certified seeds and balanced fertilizers",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "cotton",
+    "question": "How can I prevent fungal disease in cotton",
+    "answer": "To manage fungal disease in cotton, Use organic fertilizers and proper irrigation",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "sugarcane",
+    "question": "Best solution for fungal disease in sugarcane",
+    "answer": "To manage fungal disease in sugarcane, Ensure proper drainage and avoid overwatering",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "sugarcane",
+    "question": "How can I prevent pests in sugarcane",
+    "answer": "To manage pests in sugarcane, Ensure proper drainage and avoid overwatering",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "rice",
+    "question": "What causes pests in rice",
+    "answer": "To manage pests in rice, Follow crop rotation and soil testing",
+    "language": "en",
+    "tags": [
+      "rice",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "symptom_query",
+    "crop": "rice",
+    "question": "Why does my rice have yellow leaves",
+    "answer": "To manage yellow leaves in rice, Follow crop rotation and soil testing",
+    "language": "en",
+    "tags": [
+      "rice",
+      "symptom"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "wheat",
+    "question": "How to control weed growth in wheat",
+    "answer": "To manage weed growth in wheat, Use certified seeds and balanced fertilizers",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "weed"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "cotton",
+    "question": "Why does my cotton have fungal disease",
+    "answer": "To manage fungal disease in cotton, Use certified seeds and balanced fertilizers",
+    "language": "en",
+    "tags": [
+      "cotton",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "onion",
+    "question": "Best solution for fungal disease in onion",
+    "answer": "To manage fungal disease in onion, Use organic fertilizers and proper irrigation",
+    "language": "en",
+    "tags": [
+      "onion",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "wheat",
+    "question": "How can I prevent weed growth in wheat",
+    "answer": "To manage weed growth in wheat, Apply neem oil or suitable pesticides",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "weed"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "sugarcane",
+    "question": "How to control weed growth in sugarcane",
+    "answer": "To manage weed growth in sugarcane, Ensure proper drainage and avoid overwatering",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "weed"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "tomato",
+    "question": "How to control low yield in tomato",
+    "answer": "To manage low yield in tomato, Use organic fertilizers and proper irrigation",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "tomato",
+    "question": "How can I prevent low yield in tomato",
+    "answer": "To manage low yield in tomato, Apply neem oil or suitable pesticides",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "potato",
+    "question": "What causes weed growth in potato",
+    "answer": "To manage weed growth in potato, Follow crop rotation and soil testing",
+    "language": "en",
+    "tags": [
+      "potato",
+      "weed"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "onion",
+    "question": "Best solution for pests in onion",
+    "answer": "To manage pests in onion, Ensure proper drainage and avoid overwatering",
+    "language": "en",
+    "tags": [
+      "onion",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "tomato",
+    "question": "Best solution for weed growth in tomato",
+    "answer": "To manage weed growth in tomato, Use organic fertilizers and proper irrigation",
+    "language": "en",
+    "tags": [
+      "tomato",
+      "weed"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "rice",
+    "question": "What causes weed growth in rice",
+    "answer": "To manage weed growth in rice, Use organic fertilizers and proper irrigation",
+    "language": "en",
+    "tags": [
+      "rice",
+      "weed"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "sugarcane",
+    "question": "Best solution for pests in sugarcane",
+    "answer": "To manage pests in sugarcane, Use certified seeds and balanced fertilizers",
+    "language": "en",
+    "tags": [
+      "sugarcane",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "potato",
+    "question": "Why does my potato have fungal disease",
+    "answer": "To manage fungal disease in potato, Follow crop rotation and soil testing",
+    "language": "en",
+    "tags": [
+      "potato",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "potato",
+    "question": "Why does my potato have pests",
+    "answer": "To manage pests in potato, Use certified seeds and balanced fertilizers",
+    "language": "en",
+    "tags": [
+      "potato",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "rice",
+    "question": "How to control pests in rice",
+    "answer": "To manage pests in rice, Apply neem oil or suitable pesticides",
+    "language": "en",
+    "tags": [
+      "rice",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "potato",
+    "question": "How can I prevent weed growth in potato",
+    "answer": "To manage weed growth in potato, Follow crop rotation and soil testing",
+    "language": "en",
+    "tags": [
+      "potato",
+      "weed"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "onion",
+    "question": "Best solution for low yield in onion",
+    "answer": "To manage low yield in onion, Use certified seeds and balanced fertilizers",
+    "language": "en",
+    "tags": [
+      "onion",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "weed_control",
+    "crop": "onion",
+    "question": "What causes weed growth in onion",
+    "answer": "To manage weed growth in onion, Ensure proper drainage and avoid overwatering",
+    "language": "en",
+    "tags": [
+      "onion",
+      "weed"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "wheat",
+    "question": "What causes fungal disease in wheat",
+    "answer": "To manage fungal disease in wheat, Use organic fertilizers and proper irrigation",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "disease",
+      "fungal"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "onion",
+    "question": "Why does my onion have low yield",
+    "answer": "To manage low yield in onion, Apply neem oil or suitable pesticides",
+    "language": "en",
+    "tags": [
+      "onion",
+      "yield prediction",
+      "yield"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  },
+  {
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "wheat",
+    "question": "Why does my wheat have pests",
+    "answer": "To manage pests in wheat, Apply neem oil or suitable pesticides",
+    "language": "en",
+    "tags": [
+      "wheat",
+      "pest control",
+      "pest"
+    ],
+    "source": "chatbot_data_cleaned",
+    "priority": "secondary"
+  }
+]

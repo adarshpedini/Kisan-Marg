@@ -1,0 +1,723 @@
+[
+  {
+    "query": "How to grow Rice",
+    "intent": "crop_advice",
+    "topic": "cultivation",
+    "crop": "rice",
+    "language": "en"
+  },
+  {
+    "query": "I want to grow rice",
+    "intent": "crop_advice",
+    "topic": "cultivation",
+    "crop": "rice",
+    "language": "en"
+  },
+  {
+    "query": "How much water to add for Wheat",
+    "intent": "irrigation",
+    "topic": "irrigation",
+    "crop": "wheat",
+    "language": "en"
+  },
+  {
+    "query": "Best season to grow sugarcane",
+    "intent": "crop_advice",
+    "topic": "cultivation",
+    "crop": "sugarcane",
+    "language": "en"
+  },
+  {
+    "query": "Yield of wheat",
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "wheat",
+    "language": "en"
+  },
+  {
+    "query": "Average yield of rice",
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "rice",
+    "language": "en"
+  },
+  {
+    "query": "What is the yield of rice in Belgaum",
+    "intent": "crop_advice",
+    "topic": "yield",
+    "crop": "rice",
+    "language": "en"
+  },
+  {
+    "query": "Best pesticide for cotton",
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "cotton",
+    "language": "en"
+  },
+  {
+    "query": "Best soil for cotton",
+    "intent": "soil_info",
+    "topic": "soil",
+    "crop": "cotton",
+    "language": "en"
+  },
+  {
+    "query": "How much fertilizer should I add to my rice crop",
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "rice",
+    "language": "en"
+  },
+  {
+    "query": "When to sow cotton",
+    "intent": "crop_advice",
+    "topic": "cultivation",
+    "crop": "cotton",
+    "language": "en"
+  },
+  {
+    "query": "When to harvest wheat",
+    "intent": "crop_advice",
+    "topic": "harvesting_time",
+    "crop": "wheat",
+    "language": "en"
+  },
+  {
+    "query": "How to enhance yield of sugarcane",
+    "intent": "crop_advice",
+    "topic": "cultivation",
+    "crop": "sugarcane",
+    "language": "en"
+  },
+  {
+    "query": "I want to grow paddy",
+    "intent": "crop_advice",
+    "topic": "cultivation",
+    "crop": "rice",
+    "language": "hi_roman"
+  },
+  {
+    "query": "How to grow maize",
+    "intent": "crop_advice",
+    "topic": "cultivation",
+    "crop": "maize",
+    "language": "en"
+  },
+  {
+    "query": "Which fertilizer can I use for sugarcane",
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "sugarcane",
+    "language": "en"
+  },
+  {
+    "query": "How is the weather today",
+    "intent": "weather",
+    "topic": "weather",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "How is the weather tomorrow",
+    "intent": "weather",
+    "topic": "weather",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "What s the weather in Mysore this week",
+    "intent": "weather",
+    "topic": "weather",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Weather this week",
+    "intent": "weather",
+    "topic": "weather",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Weather forecast for the week",
+    "intent": "weather",
+    "topic": "weather",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "How is the climate today",
+    "intent": "weather",
+    "topic": "weather",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Climate conditions for the upcoming days",
+    "intent": "weather",
+    "topic": "weather",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Weather report for the day",
+    "intent": "weather",
+    "topic": "weather",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Will it rain today",
+    "intent": "weather",
+    "topic": "weather",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Is it going to be sunny this week",
+    "intent": "weather",
+    "topic": "weather",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "What will the weather be like this week",
+    "intent": "weather",
+    "topic": "weather",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Can I expect it to be sunny today",
+    "intent": "weather",
+    "topic": "weather",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Which is the season for growing rice",
+    "intent": "crop_advice",
+    "topic": "sowing_time",
+    "crop": "rice",
+    "language": "en"
+  },
+  {
+    "query": "Season for growing wheat",
+    "intent": "crop_advice",
+    "topic": "sowing_time",
+    "crop": "wheat",
+    "language": "en"
+  },
+  {
+    "query": "How much cotton seeds are needed for one acre of land",
+    "intent": "crop_advice",
+    "topic": "seed_selection",
+    "crop": "cotton",
+    "language": "en"
+  },
+  {
+    "query": "Can I grow rice in red soil",
+    "intent": "soil_info",
+    "topic": "soil",
+    "crop": "rice",
+    "language": "en"
+  },
+  {
+    "query": "Best soil for growing maize",
+    "intent": "soil_info",
+    "topic": "soil",
+    "crop": "maize",
+    "language": "en"
+  },
+  {
+    "query": "Irrigation for sugarcane",
+    "intent": "irrigation",
+    "topic": "irrigation",
+    "crop": "sugarcane",
+    "language": "en"
+  },
+  {
+    "query": "Which are the available seed varieties for rice",
+    "intent": "crop_advice",
+    "topic": "seed_selection",
+    "crop": "rice",
+    "language": "en"
+  },
+  {
+    "query": "Rice varieties",
+    "intent": "crop_advice",
+    "topic": "seed_selection",
+    "crop": "rice",
+    "language": "en"
+  },
+  {
+    "query": "Different types of wheat seeds",
+    "intent": "crop_advice",
+    "topic": "seed_selection",
+    "crop": "wheat",
+    "language": "en"
+  },
+  {
+    "query": "Types of seeds of cotton",
+    "intent": "crop_advice",
+    "topic": "seed_selection",
+    "crop": "cotton",
+    "language": "en"
+  },
+  {
+    "query": "Which cotton seed grows well in black soil",
+    "intent": "soil_info",
+    "topic": "soil",
+    "crop": "cotton",
+    "language": "en"
+  },
+  {
+    "query": "How long does it take to grow rice",
+    "intent": "crop_advice",
+    "topic": "harvesting_time",
+    "crop": "rice",
+    "language": "en"
+  },
+  {
+    "query": "How many months does sugarcane take",
+    "intent": "crop_advice",
+    "topic": "harvesting_time",
+    "crop": "sugarcane",
+    "language": "en"
+  },
+  {
+    "query": "Time taken to grow paddy",
+    "intent": "crop_advice",
+    "topic": "harvesting_time",
+    "crop": "rice",
+    "language": "hi_roman"
+  },
+  {
+    "query": "Which month to reap maize",
+    "intent": "crop_advice",
+    "topic": "harvesting_time",
+    "crop": "maize",
+    "language": "en"
+  },
+  {
+    "query": "Reaping time of sugarcane",
+    "intent": "crop_advice",
+    "topic": "harvesting_time",
+    "crop": "sugarcane",
+    "language": "en"
+  },
+  {
+    "query": "Wheat reaping season",
+    "intent": "crop_advice",
+    "topic": "harvesting_time",
+    "crop": "wheat",
+    "language": "en"
+  },
+  {
+    "query": "Cost of sunflower seeds",
+    "intent": "market",
+    "topic": "market",
+    "crop": "sunflower",
+    "language": "en"
+  },
+  {
+    "query": "Best places to grow cotton",
+    "intent": "crop_advice",
+    "topic": "cultivation",
+    "crop": "cotton",
+    "language": "en"
+  },
+  {
+    "query": "How much rainfall does cotton need",
+    "intent": "weather",
+    "topic": "weather",
+    "crop": "cotton",
+    "language": "en"
+  },
+  {
+    "query": "Fertilizer does for maize",
+    "intent": "fertilizer",
+    "topic": "fertilizer",
+    "crop": "maize",
+    "language": "en"
+  },
+  {
+    "query": "Attack of insects on rice",
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "rice",
+    "language": "en"
+  },
+  {
+    "query": "Protect against diseases",
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Weeds control",
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Weeds are growing along with my crop",
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Leaves are falling off from wheat crop",
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "wheat",
+    "language": "en"
+  },
+  {
+    "query": "Caterpillars are eating all leaves",
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "What is the market price of rice",
+    "intent": "market",
+    "topic": "market",
+    "crop": "rice",
+    "language": "en"
+  },
+  {
+    "query": "How much is the cost of 10 kgs of wheat",
+    "intent": "market",
+    "topic": "market",
+    "crop": "wheat",
+    "language": "en"
+  },
+  {
+    "query": "What are the prices of sugarcane",
+    "intent": "market",
+    "topic": "market",
+    "crop": "rice",
+    "language": "en"
+  },
+  {
+    "query": "Market prices of cotton in Belgaum",
+    "intent": "market",
+    "topic": "market",
+    "crop": "rice",
+    "language": "en"
+  },
+  {
+    "query": "Attack of Stem borer on sugarcane",
+    "intent": "pest_control",
+    "topic": "pest_disease",
+    "crop": "sugarcane",
+    "language": "en"
+  },
+  {
+    "query": "When to cultivate maize",
+    "intent": "crop_advice",
+    "topic": "sowing_time",
+    "crop": "maize",
+    "language": "en"
+  },
+  {
+    "query": "Ideal rainfall for cotton",
+    "intent": "weather",
+    "topic": "weather",
+    "crop": "cotton",
+    "language": "en"
+  },
+  {
+    "query": "Which season to grow rice in",
+    "intent": "crop_advice",
+    "topic": "sowing_time",
+    "crop": "rice",
+    "language": "en"
+  },
+  {
+    "query": "How to improve rice production",
+    "intent": "crop_advice",
+    "topic": "cultivation",
+    "crop": "rice",
+    "language": "en"
+  },
+  {
+    "query": "Market price of maize",
+    "intent": "market",
+    "topic": "market",
+    "crop": "rice",
+    "language": "en"
+  },
+  {
+    "query": "Will there be timely rain",
+    "intent": "weather",
+    "topic": "weather",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Types of sugarcane",
+    "intent": "crop_advice",
+    "topic": "seed_selection",
+    "crop": "sugarcane",
+    "language": "en"
+  },
+  {
+    "query": "Hello Balaram",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Hi",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Hello",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Hey there",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Hey",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Namaskar",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "hi_roman"
+  },
+  {
+    "query": "Namaste",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "hi_roman"
+  },
+  {
+    "query": "Wassup",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "hi_roman"
+  },
+  {
+    "query": "What are you doing",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "What is up with you",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "What are you up to",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "How is it going",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "How are you",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "How you doing",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "How are you doing",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Are you doing well",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Are you okay",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Are you fine",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Are you doing okay",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Is everything okay",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Are you all right",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "You alright",
+    "intent": "greeting",
+    "topic": "greeting",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "I need help",
+    "intent": "app_help",
+    "topic": "app_help",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Need help",
+    "intent": "app_help",
+    "topic": "app_help",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Help me please",
+    "intent": "app_help",
+    "topic": "app_help",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Help me",
+    "intent": "app_help",
+    "topic": "app_help",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Help",
+    "intent": "app_help",
+    "topic": "app_help",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Can you do something for me",
+    "intent": "app_help",
+    "topic": "app_help",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "I need you to do me a favour",
+    "intent": "app_help",
+    "topic": "app_help",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Can you do me a favour",
+    "intent": "app_help",
+    "topic": "app_help",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Can you help me",
+    "intent": "app_help",
+    "topic": "app_help",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "I need your help",
+    "intent": "app_help",
+    "topic": "app_help",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Please help me",
+    "intent": "app_help",
+    "topic": "app_help",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "I need an answer",
+    "intent": "app_help",
+    "topic": "app_help",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Answer my question",
+    "intent": "app_help",
+    "topic": "app_help",
+    "crop": "",
+    "language": "en"
+  },
+  {
+    "query": "Help please",
+    "intent": "app_help",
+    "topic": "app_help",
+    "crop": "",
+    "language": "en"
+  }
+]

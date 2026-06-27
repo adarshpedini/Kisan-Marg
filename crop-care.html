@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Crop Care - Kisan Marg</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="care">
+  <div class="page-shell">
+    <div class="phone-frame">
+      <div class="topbar">
+        <a class="back-btn" href="dashboard.html">←</a>
+        <h1 data-i18n="cropCareHeader">Crop Care</h1>
+        <div class="lang-switch">
+          <button class="lang-btn" data-lang-btn="en">EN</button>
+          <button class="lang-btn" data-lang-btn="hi">हिं</button>
+          <button class="lang-btn" data-lang-btn="mr">मरा</button>
+        </div>
+      </div>
+      <div class="content">
+        <div class="form-card">
+          <div class="card-title" data-i18n="cropDoctorTitle">AI Crop Doctor</div>
+          <div class="card-desc" data-i18n="cropDoctorDesc">Describe symptoms in natural language or use image input for disease help, prevention, and cure guidance.</div>
+          <div class="image-placeholder" data-i18n="imagePlaceholder">Image upload placeholder for leaf, fruit, stem, and pest-damage diagnosis</div>
+          <div class="voice-action-row crop-voice-row">
+            <button class="btn-secondary mic-btn" id="cropVoiceMic" type="button" data-i18n="voiceInput">Voice Input</button>
+            <div class="voice-status" id="cropVoiceStatus" data-i18n="voiceCropPrompt">Speak your crop issue and I will move it to AI Diagnosis.</div>
+          </div>
+          <div class="btn-row">
+            <a class="btn" href="ai-assistant.html" data-i18n="openAiDiagnosis">Open AI Diagnosis</a>
+            
+          </div>
+        </div>
+        <div class="list-card">
+          <div class="list-item">
+            <div>
+              <h4 data-i18n="detectTitle">Symptoms</h4>
+              <p data-i18n="detectDesc">Leaf curl, yellow spots, fungal growth, wilting, pest holes, nutrient deficiency</p>
+            </div>
+            <span class="badge gold" data-i18n="detectBadge">Detect</span>
+          </div>
+          <div class="list-item">
+            <div>
+              <h4 data-i18n="preventTitle">Prevention</h4>
+              <p data-i18n="preventDesc">Spacing, water control, crop hygiene, resistant seeds, and better spraying timing</p>
+            </div>
+            <span class="badge green" data-i18n="preventBadge">Prevent</span>
+          </div>
+          <div class="list-item">
+            <div>
+              <h4 data-i18n="treatTitle">Treatment</h4>
+              <p data-i18n="treatDesc">Safe cure suggestions, organic options, chemical support, and expert escalation</p>
+            </div>
+            <span class="badge red" data-i18n="treatBadge">Treat</span>
+          </div>
+        </div>
+      </div>
+      <div class="bottom-nav">
+        <a class="nav-item" data-page="home" href="index.html"><span class="nav-icon">🏠</span><span data-i18n="navHome">Home</span></a>
+        <a class="nav-item" data-page="market" href="market.html"><span class="nav-icon">📈</span><span data-i18n="navMarket">Market</span></a>
+        <a class="nav-item" data-page="assistant" href="ai-assistant.html"><span class="nav-icon">🤖</span><span data-i18n="navAi">AI</span></a>
+        <a class="nav-item" data-page="profile" href="profile.html"><span class="nav-icon">👤</span><span data-i18n="navProfile">Profile</span></a>
+      </div>
+    </div>
+  </div>
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

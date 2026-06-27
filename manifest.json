@@ -1,0 +1,22 @@
+{
+  "qa_primary": 1253,
+  "qa_secondary": 315,
+  "crop_profiles": 68,
+  "intent_examples": 103,
+  "word_tags": 166,
+  "supported_intents": [
+    "app_help",
+    "crop_advice",
+    "farewell",
+    "fertilizer",
+    "greeting",
+    "irrigation",
+    "market",
+    "pest_control",
+    "schemes",
+    "soil_info",
+    "weather"
+  ],
+  "document_chunks": 1530,
+  "search_chunks": 3166
+}
